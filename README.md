@@ -9,10 +9,11 @@ A curated list of related research papers and tools for around InterMcore projec
    - [Microbenchmarking techniques](#microbechmark)
    - [Model checking techniques](#formal-methods)
    - [Interference reduction techniques](#interference-reductions)
+   - [Task model](#Task-model)
 - [Books](#books)
 - [Talks and Tutorials](#talks-and-tutorials)
 - [Software](#software)
-- [Benchmarks and Datasets](#benchmarks-and-datasets)
+- [Benchmarks, Traces, Datasets and Case study](#benchmarks-and-datasets)
 - [Conferences](#conferences)
 - [Journals](#journals)
 - [How to Contribute](#how-to-contribute)
@@ -56,7 +57,7 @@ A curated list of related research papers and tools for around InterMcore projec
 
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [A predictable execution model for COTS-based embedded systems](https://ieeexplore.ieee.org/document/5767117) - Rodolfo Pellizzoni, Emiliano Betti, Stanley Bak, Gang Yao, John Criswell, Marco Caccamo, and Russell Kegley. 2011 17th IEEE Real-Time and Embedded Technology and Applications Symposium, IEEE, 2011.
 
-### Interference analysis
+#### Interference analysis
 - <img src="https://img.shields.io/badge/22-pages-green.svg" alt="22-pages" align="top"> [Kryptonite: Worst-Case Program Interference Estimation on Multi-Core Embedded Systems](https://dl.acm.org/doi/full/10.1145/3609128
 ) - Nikhilesh Singh, Karthikeyan Renganathan, Chester Rebeiro, Jithin Jose, and Ralph Mader. ACM Transactions on Embedded Computing Systems, 2023.
 
@@ -67,7 +68,7 @@ A curated list of related research papers and tools for around InterMcore projec
   
 - <img src="https://img.shields.io/badge/15-pages-green.svg" alt="15-pages" align="top"> [Static extraction of memory access profiles for multi-core interference analysis of real-time tasks](https://link.springer.com/chapter/10.1007/978-3-030-81682-7_2) - Thomas Carle and Hugues Cass{'e}. Architecture of Computing Systems: 34th International Conference, ARCS 2021, Virtual Event, June 7--8, 2021, Proceedings 34, Springer, 2021.
 
-### Task Model
+#### Task Model
 - <img src="https://img.shields.io/badge/15-pages-green.svg" alt="15-pages" align="top">  [A Variable Rate Execution Model] (https://cse.unl.edu/~goddard/Papers/Conference/ECRTS04GoddardLiu.pdf) - Steve Goddard and Xin Liu. ECRTS 2004.
 
 ## Books
@@ -81,7 +82,7 @@ A curated list of related research papers and tools for around InterMcore projec
 - [Phylog model language PML](https://github.com/IITH-Compilers/ML-Compiler-Bridge) - PML ([paper](https://hal.science/hal-02441353/document)).
 
 
-## Benchmarks, Datasets and Case study
+## Benchmarks, Traces, Datasets and Case study
 - [The ROSACE Case Study](https://svn.onera.fr/schedmcore/branches/ROSACE_CaseStudy) - From Simulink Specification to Multi/Many-Core Execution. Claire Pagetti, David Saussié, Romain Gratia, Eric Noulard, and Pierre Siron. 20th IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS'14).[paper](https://openreview.net/pdf?id=aIfp8kLuvc9).
 
 - [ACAS Xu Case Study](https://svn.onera.fr/schedmcore/branches/ACAS_CaseStudy/) - Description ([site need a login](https://forge.onera.fr/projects/schedmcore/wiki/ACAS_Xu_simulator)). [other version](https://github.com/lf-lang/playground-lingua-franca/tree/acas/Python/src/acas).
