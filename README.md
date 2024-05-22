@@ -65,9 +65,9 @@ A curated list of related research papers and tools for around InterMcore projec
 
 - <img src="https://img.shields.io/badge/15-pages-green.svg" alt="15-pages" align="top"> [Static extraction of memory access profiles for multi-core interference analysis of real-time tasks](https://link.springer.com/chapter/10.1007/978-3-030-81682-7_2) - Thomas Carle and Hugues Cass{'e}. Architecture of Computing Systems: 34th International Conference, ARCS 2021, Virtual Event, June 7--8, 2021, Proceedings 34, Springer, 2021.
 
-### A Variable Rate Execution Model
+### Task Model
 - <img src="https://img.shields.io/badge/15-pages-green.svg" alt="15-pages" align="top">  [A Variable Rate Execution Model] (https://cse.unl.edu/~goddard/Papers/Conference/ECRTS04GoddardLiu.pdf) - Steve Goddard and Xin Liu. ECRTS 2004.
-- 
+
 ## Books
 
 
