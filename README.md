@@ -63,6 +63,8 @@ A curated list of related research papers and tools for around InterMcore projec
 - <img src="https://img.shields.io/badge/0-pages-green.svg" alt="0-pages" align="top"> [StAMP: Static Analysis of Memory access Profiles for real-time tasks](https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.WCET.2022.1
 ) - Théo Degioanni and Isabelle Puaut. 20th International Workshop on Worst-Case Execution Time Analysis (WCET 2022), Schloss Dagstuhl-Leibniz-Zentrum f{"u}r Informatik, 2022.
 
+- <img src="https://img.shields.io/badge/0-pages-green.svg" alt="0-pages" align="top"> [Compiler-based extraction of event arrival functions for real-time systems analysis] (https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECRTS.2018.4) - Dominic Oehlert, Selma Saidi, and Heiko Falk. 30th Euromicro Conference on Real-Time Systems (ECRTS 2018), Schloss-Dagstuhl-Leibniz Zentrum für Informatik, 2018.
+  
 - <img src="https://img.shields.io/badge/15-pages-green.svg" alt="15-pages" align="top"> [Static extraction of memory access profiles for multi-core interference analysis of real-time tasks](https://link.springer.com/chapter/10.1007/978-3-030-81682-7_2) - Thomas Carle and Hugues Cass{'e}. Architecture of Computing Systems: 34th International Conference, ARCS 2021, Virtual Event, June 7--8, 2021, Proceedings 34, Springer, 2021.
 
 ### Task Model
@@ -105,3 +107,4 @@ A curated list of related research papers and tools for around InterMcore projec
 - <img src="https://img.shields.io/badge/Journal-ACM-blue.svg" alt="RTS" align="top"> [RTS](https://link.springer.com/journal/11241)
 
 ## How to Contribute (TODO)
+## TODO RTSS, RTAS, ECRTS papers to add by year (till 2020)
